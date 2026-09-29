@@ -1,0 +1,6 @@
+{
+  "name": "Style Hub — Premium Indian Fashion",
+  "description": "More Than Just Clothes. Contemporary Indian fashion, minimal luxury, and modern streetwear designed for everyday confidence and comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
